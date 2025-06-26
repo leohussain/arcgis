@@ -1,0 +1,19 @@
+{
+  "name": "layer-toggle-button",
+  "label": "Layer Toggle Button",
+  "version": "1.1.0",
+  "exbVersion": "1.10",
+  "author": "Custom Widget",
+  "description": "Toggle a map layer's visibility using a styled button or switch with layer selector",
+  "widgetType": "widget",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "supportedLocales": [
+    "en"
+  ],
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "useMapWidget": true
+}
